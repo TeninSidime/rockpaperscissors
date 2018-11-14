@@ -8,4 +8,5 @@
 
 
 // DOCUMENT READY FUNCTION BELOW
-
+ 
+//$("#userchoice").click(function()
