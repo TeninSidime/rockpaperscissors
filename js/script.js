@@ -5,8 +5,17 @@
 //GLOBAL VARIABLES
 /* global $ */
 
-
-
-// DOCUMENT READY FUNCTION BELOW
+var userchoice="";
+var computerChoice="";
+var winner="";
+var randomNumber=0;
  
-//$("#userchoice").click(function()
+ $(function(){
+     $("#shoot").click(function(){
+         userchoice= $("input").val();
+     });
+ });
+
+
+
+
